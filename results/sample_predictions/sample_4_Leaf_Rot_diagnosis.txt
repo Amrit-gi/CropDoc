@@ -1,0 +1,18 @@
+CropDoc Diagnosis Evidence Report #4
+=============================================
+Sample Image Path:  C:\Users\Lenovo\OneDrive\Desktop\CropDoc\data\sample_images\Leaf_Rot\CB_OR_0001.jpg
+Ground Truth Class: Leaf_Rot
+Predicted Disease:  Healthy_Leaf (73.18%)
+Severity Score:     35.66% (Moderate)
+
+Class Probabilities:
+  - Healthy_Leaf: 73.18%
+  - Leaf_Rot: 25.67%
+  - Leaf_Spot: 1.14%
+
+Treatment Recommendation Plan:
+  - Status:   Healthy Leaf (Physical damage / environmental stress)
+  - Chemical: None required.
+  - Organic:  Sprinkle wood ash around vine base to reduce moisture build-up.
+  - Cultural: Adjust shade netting to reduce sunburn or water pooling.
+  - Prevent:  Maintain clean drainage channels in the field.

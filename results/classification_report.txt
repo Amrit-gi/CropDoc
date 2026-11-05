@@ -1,0 +1,17 @@
+CropDoc Model Evaluation Classification Report
+==================================================
+
+Test Accuracy: 82.32%
+Test Loss:     0.4265
+Precision:     85.63%
+Recall:        79.01%
+
+              precision    recall  f1-score   support
+
+Healthy_Leaf     0.8017    0.9789    0.8815        95
+    Leaf_Rot     1.0000    0.1667    0.2857        24
+   Leaf_Spot     0.8525    0.8387    0.8455        62
+
+    accuracy                         0.8232       181
+   macro avg     0.8847    0.6614    0.6709       181
+weighted avg     0.8454    0.8232    0.7902       181

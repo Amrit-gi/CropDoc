@@ -1,0 +1,92 @@
+{
+  "Healthy": {
+    "Healthy": {
+      "status": "Healthy Leaf",
+      "chemical_treatment": "No chemical treatment required.",
+      "organic_treatment": "Apply Neem cake to soil periodically to maintain plant immunity.",
+      "cultural_practices": "Ensure proper spacing between vines to promote ventilation and sunlight.",
+      "preventive_measures": "Monitor crop weekly for early signs of fungal or bacterial infection."
+    },
+    "Mild": {
+      "status": "Healthy Leaf (Minor non-pathogenic blemishes)",
+      "chemical_treatment": "None required.",
+      "organic_treatment": "Foliar spray of 1% Trichoderma harzianum solution.",
+      "cultural_practices": "Remove yellowing lower leaves touching the soil.",
+      "preventive_measures": "Avoid overhead watering during humid evenings."
+    },
+    "Moderate": {
+      "status": "Healthy Leaf (Physical damage / environmental stress)",
+      "chemical_treatment": "None required.",
+      "organic_treatment": "Sprinkle wood ash around vine base to reduce moisture build-up.",
+      "cultural_practices": "Adjust shade netting to reduce sunburn or water pooling.",
+      "preventive_measures": "Maintain clean drainage channels in the field."
+    },
+    "Severe": {
+      "status": "Healthy Leaf (Severe physiological stress)",
+      "chemical_treatment": "None required.",
+      "organic_treatment": "Apply balanced organic compost and Bio-fertilizer.",
+      "cultural_practices": "Inspect vine roots for waterlogging or soil compaction.",
+      "preventive_measures": "Ensure proper drainage during heavy rain seasons."
+    }
+  },
+  "Leaf Rot": {
+    "Healthy": {
+      "status": "Early detection / Borderline Healthy",
+      "chemical_treatment": "Prophylactic spray of Copper Oxychloride (0.2%).",
+      "organic_treatment": "Spray Pseudomonas fluorescens (0.5%) on foliage.",
+      "cultural_practices": "Improve soil drainage in the bareja (betel conservatory).",
+      "preventive_measures": "Use disease-free vine cuttings for propagation."
+    },
+    "Mild": {
+      "status": "Mild Leaf Rot Infection (< 15% surface area)",
+      "chemical_treatment": "Spray Metalaxyl 8% + Mancozeb 64% WP @ 2g/liter of water.",
+      "organic_treatment": "Foliar application of Neem leaf extract (5%) mixed with garlic slurry.",
+      "cultural_practices": "Prune and destroy infected leaves immediately away from the field.",
+      "preventive_measures": "Disinfect pruning tools with 70% alcohol before reuse."
+    },
+    "Moderate": {
+      "status": "Moderate Leaf Rot Infection (15% - 40% surface area)",
+      "chemical_treatment": "Drench vine base with Bordeaux mixture (1%) and spray Carbendazim @ 1g/liter.",
+      "organic_treatment": "Soil application of Trichoderma viride enriched farmyard manure.",
+      "cultural_practices": "Reduce irrigation frequency and allow soil surface to dry out.",
+      "preventive_measures": "Isolate affected vine rows to prevent canopy-to-canopy spread."
+    },
+    "Severe": {
+      "status": "Severe Leaf Rot Outbreak (> 40% surface area)",
+      "chemical_treatment": "Systemic application of Fosetyl-Al (0.2%) combined with Streptocycline (100 ppm).",
+      "organic_treatment": "Uproot heavily rotting vines and solarize soil with transparent polythene.",
+      "cultural_practices": "Uproot and burn severely decayed vines to protect adjacent healthy plants.",
+      "preventive_measures": "Re-plant bareja with certified disease-resistant cuttings after soil treatment."
+    }
+  },
+  "Leaf Spot": {
+    "Healthy": {
+      "status": "Early detection / Borderline Healthy",
+      "chemical_treatment": "Preventive spray of Mancozeb 75% WP @ 2g/liter.",
+      "organic_treatment": "Foliar spray of Panchagavya solution (3%).",
+      "cultural_practices": "Ensure proper air circulation by thinning overcrowded foliage.",
+      "preventive_measures": "Avoid excessive nitrogenous fertilizer application."
+    },
+    "Mild": {
+      "status": "Mild Leaf Spot Infection (< 15% surface area)",
+      "chemical_treatment": "Spray Copper Hydroxide @ 2g/liter or Chlorothalonil @ 2g/liter.",
+      "organic_treatment": "Spray cow dung slurry filtrate (10%) mixed with turmeric powder.",
+      "cultural_practices": "Remove spotted leaves before fungal spores spread across rows.",
+      "preventive_measures": "Water crops at the ground level, avoiding leaf wetness."
+    },
+    "Moderate": {
+      "status": "Moderate Leaf Spot Infection (15% - 40% surface area)",
+      "chemical_treatment": "Alternate spray of Difenoconazole 25% EC @ 1ml/liter and Copper Oxychloride @ 2.5g/liter.",
+      "organic_treatment": "Apply fermented buttermilk + garlic spray every 7 days.",
+      "cultural_practices": "Increase vine tying height to improve lower canopy ventilation.",
+      "preventive_measures": "Destroy crop residues surrounding the betel garden."
+    },
+    "Severe": {
+      "status": "Severe Leaf Spot Blight (> 40% surface area)",
+      "chemical_treatment": "Combination spray of Azoxystrobin 23% SC @ 1ml/liter + Streptocycline @ 0.1g/liter.",
+      "organic_treatment": "Heavy foliar application of Bio-fungicide (Trichoderma + Pseudomonas mixture).",
+      "cultural_practices": "Strip affected foliage thoroughly and dispose of via deep burial.",
+      "preventive_measures": "Enforce strict quarantine of affected garden sections."
+    }
+  }
+}

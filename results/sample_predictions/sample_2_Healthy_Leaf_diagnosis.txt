@@ -1,0 +1,18 @@
+CropDoc Diagnosis Evidence Report #2
+=============================================
+Sample Image Path:  C:\Users\Lenovo\OneDrive\Desktop\CropDoc\data\sample_images\Healthy_Leaf\CA_OR_0002.jpg
+Ground Truth Class: Healthy_Leaf
+Predicted Disease:  Healthy_Leaf (93.91%)
+Severity Score:     17.71% (Moderate)
+
+Class Probabilities:
+  - Healthy_Leaf: 93.91%
+  - Leaf_Rot: 1.74%
+  - Leaf_Spot: 4.35%
+
+Treatment Recommendation Plan:
+  - Status:   Healthy Leaf (Physical damage / environmental stress)
+  - Chemical: None required.
+  - Organic:  Sprinkle wood ash around vine base to reduce moisture build-up.
+  - Cultural: Adjust shade netting to reduce sunburn or water pooling.
+  - Prevent:  Maintain clean drainage channels in the field.
